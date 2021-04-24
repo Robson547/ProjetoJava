@@ -82,7 +82,7 @@ public class ContaBanco {
         }
         
     }
-
+    // Metodos acessores 
     public int getNumConta() {
         return numConta;
     }
